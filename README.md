@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mamidipalli Divya Meghana</h1>
 <h3 align="center">A Student of Indian Institute of Technology Jodhpur</h3>
 
-- 🔭 I’m currently working on **Federated Learning with heterogeneous data**
+- 🔭 I’m currently working on a project **Federated Learning with Heterogeneous Data**
 
-- 🌱 I’m currently learning **pyTorch**
+- 🌱 I’m currently learning **PyTorch**
 
-- 📫 How to reach me **divyamegha252gmail.com**
+- 📫 How to reach me **divyamegha25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
