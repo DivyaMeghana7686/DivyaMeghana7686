@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mamidipalli Divya Meghana</h1>
 <h3 align="center">A Student of Indian Institute of Technology Jodhpur</h3>
 
-- 🔭 I’m currently working on a project **Federated Learning with Heterogeneous Data**
-
-- 🌱 I’m currently learning **PyTorch**
 
 - 📫 How to reach me **divyamegha25@gmail.com**
 
